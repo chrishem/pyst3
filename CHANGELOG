@@ -1,4 +1,6 @@
-
+2022-05-20      Chris Hemmerly <hemmerly@gmail.com>
+        * Modifications to originate method of manager.py
+	
 2012-11-11	Arezqui Belaid <areski@gmail.com>
 	* PEP8 Fixes
 
